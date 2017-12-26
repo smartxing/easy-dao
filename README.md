@@ -1,5 +1,5 @@
 # easy-dao
-轻量级jdbc实现，增删查改，
+轻量级jdbc实现，增删查改
 
 ```java
 @Test
